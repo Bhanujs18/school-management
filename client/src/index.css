@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.logo , #iconText{
+  font-family: "League Spartan", sans-serif;
+  font-weight: 800;
+  font-size: 2rem;
+  letter-spacing: -1.5px;
+  font-style: normal;
+  color: white;
+}
+.dashboard{
+  padding: 0% !important;
+  margin: 0% !important;
+  width: 100% !important;
+  height: 100% !important;
+  background-color: aqua !important;
+}
+
